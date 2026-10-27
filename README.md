@@ -8,6 +8,10 @@ Built with three.js and GSAP in an N64 / late-90s style. Every model and texture
 
 ## Play
 
+**Play it in your browser: https://ikerio.github.io/NotThePots/**
+
+Or run it locally:
+
 ```bash
 npm install
 npm run dev
